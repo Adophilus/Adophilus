@@ -120,6 +120,6 @@ Blitz Rating
   749.06  ┼╯
   727.00  ┤
 
-Chart last updated - Tue Jun 14 19:40:32 IST 2022  
+Chart last updated - Tue Jun 14 20:42:58 IST 2022  
   ```
   
